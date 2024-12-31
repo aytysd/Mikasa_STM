@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ayato/STM32CubeIDE/workspace_1.8.0/2022Main'
+make: Leaving directory '/home/ayato/STM32CubeIDE/workspace_1.8.0/2022Main'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

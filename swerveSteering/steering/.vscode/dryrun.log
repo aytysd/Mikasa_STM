@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/aoi/stm_project/turn_MD'
+make: Leaving directory '/home/aoi/stm_project/turn_MD'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
